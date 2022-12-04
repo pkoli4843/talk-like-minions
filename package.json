@@ -1,0 +1,23 @@
+{
+  "name": "talk-like-minions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://pkoli4843.github.io/talk-like-minions/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -b deploy -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkoli4843/talk-like-minions.git"
+  },
+  "author": "Pankaj Koli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkoli4843/talk-like-minions/issues"
+  }
+}
